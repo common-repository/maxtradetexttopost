@@ -1,0 +1,118 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MaxtradeTextToPost v1.0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-10-24 09:17:48+0000\n"
+"Last-Translator: wiley68 <ilko.iv@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: Bulgarian\n"
+"X-Poedit-Country: BULGARIA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#. translators: plugin header field 'Name'
+#: maxtrade-text-to-post.php:0
+#@ mtptextdomain
+msgid "MaxtradeTextToPost"
+msgstr ""
+
+#. translators: plugin header field 'PluginURI'
+#: maxtrade-text-to-post.php:0
+#@ mtptextdomain
+msgid "http://software.avalonbg.com/maxtrade-text-to-post"
+msgstr ""
+
+#. translators: plugin header field 'Description'
+#: maxtrade-text-to-post.php:0
+#@ mtptextdomain
+msgid "Add text to each post in WordPress."
+msgstr "Добавяне на текст към всяка публикация във WordPress"
+
+#. translators: plugin header field 'Author'
+#: maxtrade-text-to-post.php:0
+#@ mtptextdomain
+msgid "Ilko Ivanov"
+msgstr ""
+
+#. translators: plugin header field 'AuthorURI'
+#: maxtrade-text-to-post.php:0
+#@ mtptextdomain
+msgid "http://software.avalonbg.com/ilko"
+msgstr ""
+
+#. translators: plugin header field 'Version'
+#: maxtrade-text-to-post.php:0
+#@ mtptextdomain
+msgid "1.0.1"
+msgstr ""
+
+#: maxtrade-text-to-post.php:52
+#: mtp_import_admin.php:34
+#@ mtptextdomain
+msgid "MaxtradeTextToPost options page"
+msgstr "MaxtradeTextToPost настройки"
+
+#: maxtrade-text-to-post.php:52
+#@ mtptextdomain
+msgid "MTP Options"
+msgstr "MTP Настройки"
+
+#: mtp_import_admin.php:19
+#@ mtptextdomain
+msgid "Options saved."
+msgstr "Промените са записани."
+
+#: mtp_import_admin.php:38
+#@ mtptextdomain
+msgid "MaxtradeTextToPost text setting"
+msgstr "MaxtradeTextToPost настройки за текстовете"
+
+#: mtp_import_admin.php:42
+#@ mtptextdomain
+msgid "Where in post to show text"
+msgstr "На кое място в статиите да се показва текста?"
+
+#: mtp_import_admin.php:46
+#@ mtptextdomain
+msgid "In the begining"
+msgstr "в началото"
+
+#: mtp_import_admin.php:47
+#@ mtptextdomain
+msgid "In the end"
+msgstr "в края"
+
+#: mtp_import_admin.php:57
+#@ mtptextdomain
+msgid "Text to show in posts."
+msgstr "Текст , който да се визуализира във всяка статия."
+
+#: mtp_import_admin.php:65
+#@ mtptextdomain
+msgid "MaxtradeTextToPost pre-finished setting"
+msgstr "MaxtradeTextToPost предварително подготвени настройки"
+
+#: mtp_import_admin.php:69
+#@ mtptextdomain
+msgid "Show hidden post categories structure."
+msgstr "Покажи скрита структура на категориите в статиите."
+
+#: mtp_import_admin.php:70
+#@ mtptextdomain
+msgid "(hidden div width content like this: category1 - category2 - category3 -)"
+msgstr "(скрито div поле с текст подобен на този: категория1 - категория2 - категория3 -)"
+
+#: mtp_import_admin.php:79
+#@ mtptextdomain
+msgid "Update Options"
+msgstr "Запиши промените"
